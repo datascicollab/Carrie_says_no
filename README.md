@@ -2,10 +2,10 @@
 
 10 punches for ice cream!
 
-- [ ] NO!
-- [ ] NO!
-- [ ] NO!
-- [ ] NO!
+- [X] NO!
+- [X] NO!
+- [X] NO!
+- [X] NO!
 - [ ] NO!
 - [ ] NO!
 - [ ] NO!
